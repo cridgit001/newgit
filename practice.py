@@ -19,3 +19,7 @@ if choice in branch:
     print(branch[choice])
 else:
     print('Bad choice')
+
+L = ['Good,'
+     'Bad,'
+     'Ugly']
